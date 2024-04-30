@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+*{
+
+    box-sizing: border-box;
+}
+
+body{
+
+    margin: 0;
+    font-family: "Quicksand", "sans-serif";
+    font-size: 18px;
+    /*
+    background-image: url('assets/images/foods/background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    */
+}
+
+a{
+    text-decoration: none;
+}
